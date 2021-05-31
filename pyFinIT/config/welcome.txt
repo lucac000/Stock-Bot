@@ -1,7 +1,0 @@
-<strong>Welcome to <u>StockBot</u></strong>
-StockBot wants to help users to manage their investment portfolios 💶💵💷
-Within the Bot you will find numerous functions to keep track of investments, 
-assess risk, optimization and predict the future value of shares. 📈📉
-
-<u>To navigate use the keyboard with shortcuts.</u>
-If you need additional information you can ask to the Bot for help with button Help 🆘
